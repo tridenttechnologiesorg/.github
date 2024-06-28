@@ -60,9 +60,9 @@ Our team is also available for a variety of freelance gigs, providing expertise 
 
 ## Technologies We Use
 
-- **Backend**: Node.js, Python, Java, .NET, PHP
-- **Frontend**: React, Angular, Vue.js, HTML5, CSS3
-- **Databases**: MySQL, PostgreSQL, MongoDB, Oracle
+- **Backend**: NodeJS, ExpressJS, NestJS, Django, FastAPI, SpringBoot, Laravel
+- **Frontend**: React, Vue.js, Svelte, HTML5, CSS3, TailwindCSS
+- **Databases**: MySQL, PostgreSQL, MongoDB, Cassandra, SqlLite
 - **DevOps**: Docker, Kubernetes, Jenkins, AWS, Azure
 - **Design Tools**: Adobe XD, Figma, Sketch
 
