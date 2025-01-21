@@ -94,11 +94,11 @@ Developed a robust monolithic application for a healthcare provider, ensuring se
 ## Contact Us
 
 **Trident Technologies**  
-[Website](https://www.tridenttech.com)  
-[Email](mailto:contact@tridenttech.com)  
-[Phone](+123-456-7890)
+[Website](https://www.tridentechnologies.com)  
+[Email](mailto:abelshibabaw291@gmail.com)  
+[Phone](+251913174185)
 
-Follow us on [LinkedIn](https://www.linkedin.com/company/tridenttech) and [Twitter](https://twitter.com/tridenttech) for updates and industry insights.
+Follow us on [LinkedIn]([https://www.linkedin.com/company/trident-technologies-et/])  for updates and industry insights.
 
 ## License
 
